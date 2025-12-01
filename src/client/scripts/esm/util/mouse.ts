@@ -10,7 +10,7 @@ import space from '../game/misc/space.js';
 import camera from '../game/rendering/camera.js';
 import perspective from '../game/rendering/perspective.js';
 
-import type { BDCoords, Coords, DoubleCoords } from '../../../../shared/chess/util/coordutil.js';
+import type { , Coords, DoubleCoords } from '../../../../shared/chess/util/coordutil.js';
 
 /**
  * This is capable of getting the mouse position, EVEN IF
